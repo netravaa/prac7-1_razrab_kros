@@ -7,7 +7,7 @@ import 'favorites_screen.dart';
 import 'profile_screen.dart';
 import 'recipe_detail_screen.dart';
 import 'shopping_list_screen.dart';
-1
+
 class RecipesScreen extends StatelessWidget {
   RecipesScreen({super.key});
 
