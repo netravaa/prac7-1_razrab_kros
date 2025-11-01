@@ -13,7 +13,7 @@ class RecipesScreen extends StatelessWidget {
 
   final RecipeRepository _repo = RecipeRepository();
 
-  @override3
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
